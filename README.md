@@ -9,3 +9,7 @@
 - 메일: goadl92@naver.com
 - 휴대폰: 010-3924-5680
 - 카카오톡: hamamy36
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyemigwak&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyemigwak&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
